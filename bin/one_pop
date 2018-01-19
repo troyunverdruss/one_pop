@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'one_pop'
+puts OnePop.hi(ARGV[0])
